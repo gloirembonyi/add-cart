@@ -1,0 +1,11 @@
+
+
+# Security: block PolinRider-style malware paths (do not commit)
+.env
+.env.*
+!.env.example
+public/fonts/fa-solid-400.woff2
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
